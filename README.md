@@ -1,13 +1,41 @@
-<<<<<<< HEAD
+
 # SciKit-Learn-ML
-<<<<<<< HEAD
+
 SciKit-Learn-ML
 =======
 Curso Platzi - SciKit-Learn-ML 
->>>>>>> 3b5c2c36fcedbcca035dfb621a445132c704e460
+
 =======
 # SciKit-Learn-Machine-Learning
 SciKit-Learn-ML
 
 Curso realizado en Platzi sobre SciKit-Learn
->>>>>>> 8091bb16b5ba10c436aab17c392fdf1726687024
+
+### Crear ambiente virtual
+
+```
+$ python3 -m virtualenv entornoML
+$ source entornoML/bin/activate
+(entornoML)$ pip install <dependency>
+
+* python3 -m pip install numpy
+
+* python3 -m pip install scipy
+
+* python3 -m pip install joblib
+
+* python3 -m pip install pandas
+
+* python3 -m pip install matplotlib
+
+* python3 -m pip install scikit-learn
+
+ ```
+--------------------------------------------------------------------------------------------
+
+### Ejecutar
+
+* python3 pca.py
+
+--------------------------------------------------------------------------------------------
+
